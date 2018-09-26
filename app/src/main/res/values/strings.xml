@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Russia 2018 live Scores</string>
+    <string name="Flag1">Nigeria flag</string>
+    <string name="Flag2">Argentina flag</string>
+    <string name="Nigeria"> Nigeria</string>
+    <string name="ButtonScore"> Goals</string>
+    <string name="ButtonFreekick"> freekick</string>
+    <string name="ButtonCornerkick"> Cornerkick</string>
+    <string name="Argentina"> Argentina</string>
+    <string name="reset">Reset</string>
+    <string name="contentDiscription">Bakground image</string>
+</resources>
